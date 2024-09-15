@@ -1,6 +1,6 @@
 # Twilio WordPress Phone OTP Plugin
 
-A WordPress plugin that provides a phone OTP (One Time Password) authentication system. This plugin supports two modes: displaying the OTP form inside a modal (popup) or directly on the page. It integrates with Twilio to send and verify OTPs.
+A WordPress plugin that provides a simplest phone OTP (One Time Password) authentication system. This plugin supports two modes: displaying the OTP form inside a modal (popup) or directly on the page. It integrates with Twilio to send and verify OTPs.
 
 ## Features
 
@@ -10,7 +10,7 @@ A WordPress plugin that provides a phone OTP (One Time Password) authentication 
 - 10-second timer for resending OTP.
 - Admin settings to configure Twilio API credentials.
 
-## Installation
+## Installation 
 
 1. **Upload Plugin:**
    - Download the plugin zip file.
