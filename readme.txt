@@ -1,3 +1,13 @@
+# Upcoming Changes
+- Button Label
+- Button Background Color
+- Popup Title
+- Preferred Countries
+- OnlyCountries
+- OTP sms TEXT
+- OTP success Text
+
+
 # Twilio WordPress Phone OTP Plugin
 
 A WordPress plugin that provides a simplest phone OTP (One Time Password) authentication system. This plugin supports two modes: displaying the OTP form inside a modal (popup) or directly on the page. It integrates with Twilio to send and verify OTPs.
