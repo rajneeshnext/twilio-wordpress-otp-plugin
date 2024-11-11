@@ -5,7 +5,7 @@ Description: Used by thousands, A plugin to display a phone OTP form with option
 Version: 1.0
 Author: Rajneesh Saini
 Plugin URI: https://www.boldertechnologies.net/twilio-wp-otp
-Requires PHP: 5.6.20
+Requires PHP: 5.6.20 
 Author URI: https://www.upwork.com/freelancers/rajneeshkumarsaini
 */
 // Autoload dependencies (for Twilio SDK)
