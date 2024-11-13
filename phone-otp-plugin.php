@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Twilio WordPress Phone OTP Plugin
+Plugin Name: Twilio One-Time Passcode Login & Signup
 Description: Used by thousands, A plugin to display a phone OTP form with options for a modal button or direct page display, using Twilio API.
 Version: 1.0
 Author: Rajneesh Saini
