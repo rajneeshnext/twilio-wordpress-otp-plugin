@@ -1,16 +1,17 @@
-# Upcoming Changes
-- Button Label
-- Button Background Color
-- Popup Title
-- Preferred Countries
-- OnlyCountries
-- OTP sms TEXT
-- OTP success Text
+=== Plugin Name ===
+Contributors: merajneesh
+Donate link: 
+Tags: OTP/Passcode login, Twilio API plugin
+Requires at least: 6.0
+Tested up to:  6.7
+Stable tag: 1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+Twilio WordPress Phone OTP Plugin
 
-# Twilio WordPress Phone OTP Plugin
-
-A WordPress plugin that provides a simplest phone OTP (One Time Password) authentication system. This plugin supports two modes: displaying the OTP form inside a modal (popup) or directly on the page. It integrates with Twilio to send and verify OTPs.
+== Description ==
+A WordPress plugin that provides a simplest phone OTP (One Time Password) authentication system. This plugin supports two modes: displaying the OTP form inside a modal (popup) or directly on the page. It uses Twilio API to send and verify OTPs.
 
 ## Features
 
@@ -79,3 +80,13 @@ This plugin is licensed under the [GPLv2 License](https://www.gnu.org/licenses/o
 ---
 
 *This README file is a template. Please modify it according to your specific needs and details.* 
+
+== Frequently Asked Questions ==
+
+== Upgrade Notice ==
+Will upgrade after reviewing users feedback
+
+== Screenshots ==
+No Screenshot present
+
+== Changelog ==
