@@ -6,7 +6,9 @@ Version: 1.0
 Author: Rajneesh Saini
 Plugin URI: https://www.boldertechnologies.net/twilio-wp-otp
 Requires PHP: 5.6.20 
-Author URI: https://www.upwork.com/freelancers/rajneeshkumarsaini
+Author URI: https://www.boldertechnologies.net/upwork
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 // Autoload dependencies (for Twilio SDK)
 if ( file_exists( __DIR__ . '/Twilio/autoload.php' ) ) {
