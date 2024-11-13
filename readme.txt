@@ -3,8 +3,8 @@ Contributors: merajneesh
 Donate link: 
 Tags: OTP/Passcode login, Twilio API plugin
 Tags: otp, phone, authentication
-Requires at least: 5.0
-Tested up to: 6.3
+Requires at least: 6.0
+Tested up to: 6.7
 Stable Tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
