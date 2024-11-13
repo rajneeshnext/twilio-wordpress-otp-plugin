@@ -1,14 +1,13 @@
-=== Plugin Name ===
+=== Twilio One-Time Passcode Login & Signup ===
 Contributors: merajneesh
 Donate link: 
 Tags: OTP/Passcode login, Twilio API plugin
-Requires at least: 6.0
-Tested up to:  6.7
-Stable tag: 1
+Tags: otp, phone, authentication
+Requires at least: 5.0
+Tested up to: 6.3
+Stable Tag: 1.0
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-Twilio WordPress Phone OTP Plugin
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 A WordPress plugin that provides a simplest phone OTP (One Time Password) authentication system. This plugin supports two modes: displaying the OTP form inside a modal (popup) or directly on the page. It uses Twilio API to send and verify OTPs.
