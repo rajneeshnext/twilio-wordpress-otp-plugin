@@ -32,7 +32,7 @@ A WordPress plugin that provides a simplest phone OTP (One Time Password) authen
 2. **Configure Twilio Settings:**
    - Go to **Settings** > **Phone OTP Settings** in the WordPress admin dashboard.
    - Enter your Twilio SID, Auth Token, and Phone Number.
-   - Click **Save Changes**.
+   - Click **Save Changes**. 
 
 ## Shortcodes
 
