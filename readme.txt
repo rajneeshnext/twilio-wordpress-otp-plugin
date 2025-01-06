@@ -86,6 +86,6 @@ This plugin is licensed under the [GPLv2 License](https://www.gnu.org/licenses/o
 Will upgrade after reviewing users feedback
 
 == Screenshots ==
-No Screenshot present
+No Screenshot present 
 
 == Changelog ==
